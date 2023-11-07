@@ -31,5 +31,5 @@ Se han entrenado diversos modelos para la detección de fraude, que se encuentra
 -  `svm_model.pkl`: Modelo de Máquinas de Vectores de Soporte. 
 -  `logreg_model.pkl`: Modelo de Regresión Logística. 
 -  `random_forest_model.pkl`: Modelo de Random Forest. Además, se han creado dos modelos ensamblados: 
--  `ensemble_model_pres.pkl`: Modelo ensamblado con alta precisión pero menor recall. 
+-  `ensemble_model_rec.pkl`: Modelo ensamblado con alta precisión pero menor recall. 
 -  `ensemble_model_bal.pkl`: Modelo ensamblado balanceado con buen rendimiento en precisión y recall. 
